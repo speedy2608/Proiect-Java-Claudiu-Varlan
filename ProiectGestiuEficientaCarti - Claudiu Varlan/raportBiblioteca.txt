@@ -1,0 +1,4 @@
+In aplicatie exista 7 carti.
+ Dintre acestea, 2 sunt imprumutate si 5 sunt disponibile
+Sunt inregistrati 4 abonati
+Pana in prezent s-au realizat 2 imprumuturi.

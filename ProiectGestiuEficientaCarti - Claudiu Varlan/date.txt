@@ -1,0 +1,26 @@
+Biblioteca Va Urechia, Str. Mihai Bravu Nr. 16 Galați, vaurechia@gmail.com, 0236411037, 10, 
+7
+AIC1, Don Quixote, Miguel de Cervantes, ADVENTURE, true
+FIB1, Dracula, Bram Stoker, HORROR, false
+FID2, Cei Trei Muschetari, Alexandre Dumas, ADVENTURE, true
+AID1, Dune, Frank Herbert, SF, false
+EID2, Fahrenheit 451, Ray Bradbury, SF, false
+AIB1, Harry Potter și Camera Secretelor, J. K. Rowling, ACTION, false
+EAM7, Game of Thrones, J. K. Rowling, ACTION, false
+7
+FID2, 2
+FIB1, 1
+EID2, 4
+EAM7, 6
+AIC1, 0
+AIB1, 5
+AID1, 3
+2
+FID2, 1, Varlan, Claudiu, claudiu.varlan69@gmail.com, 0770299002
+AIC1, 2, Dumitrache, Gigel, gigel@gmail.com, 0772024334
+2
+4
+1, Varlan, Claudiu, claudiu.varlan69@gmail.com, 0770299002
+2, Dumitrache, Gigel, gigel@gmail.com, 0772024334
+3, test, test, test@test.com, 1234567890
+4, Catalin, Stuparu, catalin@.com, 1234567890
